@@ -13,3 +13,14 @@ Collection of notebooks created for CPSC601 (Deep learning for vision) - Winter 
 - cat.jpg Photo by <a href="https://unsplash.com/it/@cedric_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cédric VT</a> on <a href="https://unsplash.com/images/animals/cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - python_numpy_matplotlib.ipynb https://cs231n.github.io/python-numpy-tutorial/
 - loading_image.ipynb with help from https://towardsdatascience.com/what-library-can-load-image-in-python-and-what-are-their-difference-d1628c6623ad
+
+#### Week3:
+- plot_transforms.ipynb https://pytorch.org/vision/stable/auto_examples/plot_transforms.html#sphx-glr-auto-examples-plot-transforms-py
+- cat.jpg Photo by <a href="https://unsplash.com/it/@cedric_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cédric VT</a> on <a href="https://unsplash.com/images/animals/cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- If wedgits didn't show up, <a href="https://github.com/jupyter-widgets/ipywidgets/issues/1146">this link </a> suggested running the following commands on your machine.
+
+```
+jupyter nbextension install --py widgetsnbextension --user
+
+jupyter nbextension enable widgetsnbextension --user --py
+```
