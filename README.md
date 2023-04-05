@@ -29,5 +29,7 @@ jupyter nbextension enable widgetsnbextension --user --py
 Zibra image by <a href="https://unsplash.com/@eshingiro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Emmy Shingiro</a> on <a href="https://unsplash.com/s/photos/zibra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Cat image by <a href="https://unsplash.com/@sadmax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amber Kipp</a> on <a href="https://unsplash.com/images/animals/cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+neural_style_tutorial by <a href="https://pytorch.org/tutorials/advanced/neural_style_tutorial.html"> Pytorch Tutorials </a>
   
   
